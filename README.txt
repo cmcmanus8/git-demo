@@ -2,10 +2,6 @@
 
 This is the first file in this repo.
 
-##Ipsum Below
+##Website Contents
 
-Hello my name is what my name is who, Slim Shady
-
-##Even More Ipsum Boys!
-
-Hear me now, badman ting
+1. index.html
